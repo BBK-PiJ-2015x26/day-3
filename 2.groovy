@@ -21,4 +21,3 @@ if (op == "+") {
 } else {
 	println "wrong"
 }
-System.console().readLine()
